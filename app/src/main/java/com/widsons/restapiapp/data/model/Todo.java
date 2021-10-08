@@ -3,7 +3,8 @@ package com.widsons.restapiapp.data.model;
 import com.google.gson.annotations.SerializedName;
 // step ke 3 generate model
 // plugin pojo generator di preference
-public class Todo{
+public class
+Todo{
 
 	@SerializedName("is_done")
 	private boolean isDone;
